@@ -1,4 +1,4 @@
-# Anotações sobre Ruby e Rails
+# Basic of Ruby and Rails
 
 ### Por Fabio Carneiro
 
