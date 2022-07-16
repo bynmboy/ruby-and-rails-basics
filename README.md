@@ -101,7 +101,7 @@ default: &default
   socket: /var/run/mysqld/mysqld.sock
 ```
 
-​	Este comando parece fazer uma varredura no projeto buscando as dependências que ele vai usar, avisa o gem, e o gem em seguida instala as dependências necessárias para poder iniciar o projeto, por mais que tentei mudar a versão do rails 5.2.0 usado no curso, ele sempre insiste em puxar a versão 7, pode ser que seja algo a ver com o gerenciador rbenv, ou por conta da própria versão do ruby estar amarrada a uma versão de rails. Porém usando o Vagrant configurado para uma box do ubuntu 18.04 com o ambiente configurado devidamente usando o RVM tudo funcionou como desejado, inclusive o link da minha box está [aqui](https://app.vagrantup.com/fabioaacarneiro/boxes/ubuntu1804-rubyonrails-dev)
+​	Este comando parece fazer uma varredura no projeto buscando as dependências que ele vai usar, avisa o gem, e o gem em seguida instala as dependências necessárias para poder iniciar o projeto, por mais que tentei mudar a versão do rails 5.2.0 usado nos meus testes, ele sempre insiste em puxar a versão 7, pode ser que seja algo a ver com o gerenciador rbenv, ou por conta da própria versão do ruby estar amarrada a uma versão de rails. Porém usando o Vagrant configurado para uma box do ubuntu 18.04 com o ambiente configurado devidamente usando o RVM tudo funcionou como desejado, inclusive o link da minha box está [aqui](https://app.vagrantup.com/fabioaacarneiro/boxes/ubuntu1804-rubyonrails-dev)
 
 ## Um Pouco Sobre RVM
 
@@ -236,7 +236,7 @@ cd meu_projeto
 #password:
 ```
 
-​	Precisamos descomentar e colocar a senha que escolhemos, com base na configuração feita no curso, usamos o *username* como *vagrant* e o *password* também como *vagrant* então no arquivo ficará assim:
+​	Precisamos descomentar e colocar a senha que escolhemos, usamos o *username* como *vagrant* e o *password* também como *vagrant* então no arquivo ficará assim:
 
 ```
 username: vagrant
