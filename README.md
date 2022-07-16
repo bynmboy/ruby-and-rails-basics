@@ -2,7 +2,9 @@
 
 ### Por Fabio Carneiro
 
-​	Estas anotações são conceitos básicos porém fundamentais que obtive pela minha experiência estudando Ruby, lendo isto você não irá obter um conhecimento aprofundado sobre ruby te fará um desenvolvedor completo, mas vai te ajudar a entender como tudo funciona e acredito que será tão bom para seu começo como foi para mim construir este documento, de início eu ia guardar só para mim, mas penso que pode ajudar mais pessoas, não tenho planejamento de tornar este documento mais formal ou algo mais do estilo acadêmico, este documento tem o objetivo de servir como o primeiro passo de toda a sua jornada Ruby, eu fui escrevendo isso conforme fui estudando e aprendendo, isso deve ter me custado um total de 5 dias, mas leia com calma, estude com tranquilidade e exercite, espero que meu trabalho seja útil.
+	Olá, me meu nome é Fabio Carneiro, atualmente sou estudante do curso bacharelado de engenharia de software (2022), e nos ultimos anos iniciei meus estudos sobre linguagens de programação de vários tipo, entre outros conceitos presentes na engenharia de software. Recentemente comecei um estudo sobre a linguagem Ruby e do framwork Rails, nos últimos meses tenho me dedicado em estudar sistemas web conhecendo os mais variados tipos de linguagem para server side, nesta semana comecei meus estudos sobre ruby e qui inicia esta documentação que estou fazendo sobre meus estudos com base nesta linguagem e framework, acredito que meus estudos possam não só me ajudar na carreira como ajudar qualquer um que se propor a estudar minhas documentações e relatórios e fazendo bom uso dos mesmo, poderá agregar algum conhecimento em sua jornada de estudo assim como agrega muito para mim pesquisar, estudar e escrever com minhas palavras muito do que obtenho de conhecimento, materiais e experiência.
+
+​	Estas anotações são conceitos básicos porém fundamentais que obtive pela minha experiência estudando Ruby, lendo isto você não irá obter um conhecimento aprofundado sobre ruby ou te fará um desenvolvedor completo, mas vai te ajudar a entender como tudo funciona e acredito que será tão bom para o seu começo como foi para mim construir este documento, de início eu ia guardar só para mim, mas penso que poderá ajudar mais pessoas, não tenho planejamento de tornar este documento mais formal ou algo mais do estilo acadêmico, este documento tem o objetivo de servir como testemunho da minha jornada em Ruby, eu fui escrevendo isso conforme fui estudando e aprendendo, isso deve ter me custado um total de 5 dias, mas leia com calma, estude com tranquilidade e exercite, espero que meu trabalho seja útil.
 
 ​	Eu iniciei meu estudos em uma  versão mais antiga de Ruby e Rails por que é o que eu consegui encontrar, meus estudos iniciaram com ruby 2.5 rails 5.2 em um ubuntu 18.04 virtualizado pelo vagrant, talvez tudo o que coloquei aqui não ajude 100% das pessoas que lerem, porém documentei aqui a solução de todos os problemas que obtive para configurar o ambiente no Windows 11, então acredito que muitas das pessoas que lerem isso serão ajudadas.
 
@@ -1524,7 +1526,7 @@ gem "cpf_utils", "~>1.3.5"  <--- nome da gema e versão
 
 ​	Neste ultimo exemplo, o bundle vai instalar qualquer versão começando pela *1.3.5* mas nunca acima da *1.3.X* podendo nas verões de *Patch* mudarem tranquilamente mas a versão *Major* e na *Minor* jamais irão mudar.
 
-## Conclusão
+## fim da primeira parte da documentação ainda em construção.
 
-​	Este documento não vai te preparar para o mercado de trabalho mas com certeza com tudo compartilhado aqui você vai ter o que precisa para caminhar com suas próprias pernas nessa jornada de estudos da Linguagem Ruby!!!
+​	Nos vemos em breve, ass: Fabio Carneiro.
 
