@@ -40,7 +40,7 @@ sendo minha experiência no meu primeiro contato com ruby, depois de relatar
 problemas e soluções que consegui aplicar, este documento se mantém no conceito 
 de conhecimento fundamental sobre a linguagem ruby, boa leitura.
 
-	--*Fabio Carneiro*
+*-Fabio Carneiro*
 
 Ruby funciona melhor em sistemas linux, então é importante usar docker por 
 questão de portabilidade ou vagrant.
